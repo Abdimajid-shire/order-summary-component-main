@@ -86,7 +86,8 @@
   }
 
   .mid-part {
-      margin-left: 1.3rem;
+      /* margin-left: 1.3rem; */
+      margin-left: 0.6rem;
       /* background: green; */
       
   }
